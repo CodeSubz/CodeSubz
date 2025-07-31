@@ -15,12 +15,12 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeSubz&theme=dark" alt="CodeSubz's GitHub Streak" height="180"/>
     </td>
-    <td>
-      <div>
-        <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10" alt="Trophies" height="180"/>
-        <br/>
-        <img src="https://komarev.com/ghpvc/?username=CodeSubz&style=flat-square&color=333333" alt="Profile Views" height="30"/>
-      </div>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10" alt="Trophies" height="110"/>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=CodeSubz&style=flat-square&color=333333" alt="Profile Views" height="25"/>
     </td>
   </tr>
 </table>
