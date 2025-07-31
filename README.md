@@ -1,6 +1,9 @@
 <!-- Center everything and use a dark theme for all stats -->
 
 <div align="center">
+
+## GitHub Stats & Activity
+
 <table>
   <tr>
     <td>
@@ -15,9 +18,12 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10" alt="Trophies" height="110"/>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=CodeSubz&style=flat-square&color=333333" alt="Profile Views" height="25"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10" alt="Trophies"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://komarev.com/ghpvc/?username=CodeSubz&style=flat-square&color=333333" alt="Profile Views"/>
     </td>
   </tr>
 </table>
