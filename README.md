@@ -1,26 +1,27 @@
-<!-- Center everything and use a dark theme for all stats -->
-
 <div align="center">
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CodeSubz&show_icons=true&count_private=true&theme=onedark" alt="CodeSubz's GitHub Stats" height="180"/>
+    <!-- First row: three widgets side by side -->
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=CodeSubz&show_icons=true&count_private=true&theme=onedark" height="180"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSubz&layout=compact&theme=onedark" alt="CodeSubz's Top Languages" height="180"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSubz&layout=compact&theme=onedark" height="180"/>
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeSubz&theme=dark" alt="CodeSubz's GitHub Streak" height="180"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10&exclude=Issues,Reviews,Followers,Stars,StarMiddleStar" alt="Trophies"/>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeSubz&theme=dark" height="180"/>
     </td>
   </tr>
   <tr>
+    <!-- Second row: trophies, full width -->
     <td colspan="3" align="center">
-      <img src="https://komarev.com/ghpvc/?username=CodeSubz&style=flat-square&color=333333" alt="Profile Views"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10&title=-Issues,-Reviews,-Followers,-Stars,-StarMiddleStar"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Third row: profile views, small and subtle, centered -->
+    <td colspan="3" align="center">
+      <img src="https://komarev.com/ghpvc/?username=CodeSubz&style=flat-square&color=333333" alt="Profile Views" width="70" height="20"/>
     </td>
   </tr>
 </table>
