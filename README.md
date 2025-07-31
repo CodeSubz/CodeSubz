@@ -1,9 +1,6 @@
 <!-- Center everything and use a dark theme for all stats -->
 
 <div align="center">
-
-## GitHub Stats & Activity
-
 <table>
   <tr>
     <td>
