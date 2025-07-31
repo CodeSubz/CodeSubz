@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10" alt="Trophies"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=CodeSubz&theme=onedark&margin-w=10&exclude=Issues,Reviews,Followers,Stars,StarMiddleStar" alt="Trophies"/>
     </td>
   </tr>
   <tr>
